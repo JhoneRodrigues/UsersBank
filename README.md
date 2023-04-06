@@ -1,5 +1,5 @@
 # UsersBank
-Olá! Este projeto consiste em um exercicio do curso de POO em Java, sua finalidade é praticar os conceitos de construtores, encapsulamento, Getters e Setters. O programa consiste em um breve cadastro de cliente em um banco, em seguida operações de depósito e saque. Entretanto, deve existir a possibilidade do cliente executar ou não um depósito inicial, e também, em operações de saque deve cobrar uma taxa de $ 5.00 sobre o saldo.
+Olá! Este projeto consiste em um exercício de POO em Java, sua finalidade é praticar os conceitos de construtores, encapsulamento, Getters e Setters. O programa consiste em um breve cadastro de cliente em um banco, em seguida operações de depósito e saque. Entretanto, deve existir a possibilidade do cliente executar ou não um depósito inicial, e também, em operações de saque deve cobrar uma taxa de $ 5.00 sobre o saldo.
 
 ## Execução do programa:
 ![image](https://user-images.githubusercontent.com/129993748/230496333-25af1a0e-5d35-4230-937b-df1c3c6ff97e.png)
