@@ -4,7 +4,7 @@ Olá! Este projeto consiste em um exercício de POO em Java, sua finalidade é p
 ## Execução do programa:
 ![image](https://user-images.githubusercontent.com/129993748/230496333-25af1a0e-5d35-4230-937b-df1c3c6ff97e.png)
 
-## Tecnologias utilizadas
+## Tecnologia utilizada
 <div align="left"> 
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" title="Java">
 
